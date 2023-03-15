@@ -11,22 +11,22 @@ The Elves take turns writing down the number of Calories contained by the variou
 
 For example, suppose the Elves finish writing their items' Calories and end up with the following list:
 
-|List
----
-|1000
-|2000
-|3000
-| [blank]
-|4000
-| [blank]
-|5000
-|6000
-| [blank]
-|7000
-|8000
-|9000
-| [blank]
-|10000
+| List |
+-------
+| 1000 |
+| 2000 |
+| 3000 |
+| [blank] |
+| 4000 |
+| [blank] |
+| 5000 |
+| 6000 |
+| [blank] |
+| 7000 |
+| 8000 |
+| 9000 |
+| [blank] |
+| 10000 |
 
 This list represents the Calories of the food carried by five Elves:
 
