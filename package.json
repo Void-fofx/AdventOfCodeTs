@@ -1,0 +1,22 @@
+{
+  "name": "tsadventofcode",
+  "version": "1.0.0",
+  "description": "Ts code practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Void-fofx/AdventOfCodeTs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Void-fofx/AdventOfCodeTs/issues"
+  },
+  "homepage": "https://github.com/Void-fofx/AdventOfCodeTs#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.3"
+  }
+}
