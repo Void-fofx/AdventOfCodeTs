@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Void-fofx/AdventOfCodeTs#readme",
   "devDependencies": {
-    "@types/node": "^18.15.3"
+    "@types/node": "^18.15.3",
+    "ts-node": "^10.9.1"
   }
 }
